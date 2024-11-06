@@ -3,10 +3,17 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EcommerceApp",
+            "request": "launch",
+            "mainClass": "EcommerceApp",
+            "projectName": "Scam-Azon_535afab6"
+        },
+        {
+            "type": "java",
             "name": "Launch Application",
             "request": "launch",
             "mainClass": "App",
-            "vmArgs": "--module-path \"C:\\Program Files\\Java\\javafx-sdk-21.0.4\\lib\" --add-modules javafx.controls,javafx.fxml"
+            "vmArgs": "--module-path \"C:\\Program Files\\Java\\javafx-sdk-23\\lib\" --add-modules javafx.controls,javafx.fxml"
         }
     ]
 }
