@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LibrarySystemFX",
+            "request": "launch",
+            "mainClass": "LibrarySystemFX",
+            "projectName": "Scam-Azon_535afab6"
+        },
+        {
+            "type": "java",
+            "name": "ECommerceApp",
+            "request": "launch",
+            "mainClass": "ECommerceApp",
+            "projectName": "Scam-Azon_535afab6"
+        },
+        {
+            "type": "java",
             "name": "EcommerceApp",
             "request": "launch",
             "mainClass": "EcommerceApp",
